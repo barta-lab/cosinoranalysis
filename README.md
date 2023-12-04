@@ -29,10 +29,4 @@ This repository contains R code designed for cosinor analysis, specifically tail
 3. Interpret the results using the generated plots and statistical outputs.
 
 ## Contributing
-This project is currently under development, and contributions are welcome. Please read [CONTRIBUTING.md](link-to-contributing-file) for details on our code of conduct, and the process for submitting pull requests.
-
-## License
-This project is licensed under the [MIT License](link-to-license-file) - see the [LICENSE.md](link-to-license-file) file for details.
-
-## Acknowledgments
-- Mention any collaborators, funding agencies, etc.
+This project is currently under development.
