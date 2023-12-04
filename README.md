@@ -21,6 +21,8 @@ This repository contains R code designed for cosinor analysis, specifically tail
 
 ### Data Import
 - **Recommended Method:** Direct copy and paste from spreadsheet software (e.g., Microsoft Excel).
+- Data shoud be in format: 1.st row: time, replicate1, replicate2, replicate3, replicate4, replicate5
+- the following rows should contain data. Please see example file: example.xlsx
 - Alternatively, import data using the `data.frame` function in R.
 
 ## Usage
